@@ -1,0 +1,20 @@
+{
+  "name": "auto-commit",
+  "version": "1.0.0",
+  "main": "daily.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UbaidBinWaris/auto-commit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UbaidBinWaris/auto-commit/issues"
+  },
+  "homepage": "https://github.com/UbaidBinWaris/auto-commit#readme",
+  "description": ""
+}
